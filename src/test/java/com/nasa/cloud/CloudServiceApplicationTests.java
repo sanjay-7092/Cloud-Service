@@ -1,4 +1,4 @@
-package com.nasa.Cloud_Service;
+package com.nasa.cloud;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
